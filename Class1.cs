@@ -1,15 +1,12 @@
-﻿
-using System;
+﻿using System;
 using System.Linq;
 
-namespace Lab2CSharp
+namespace ConsoleApplication
 {
-    class Program
+    class Class1
     {
         static void Main(string[] args)
         {
-            Console.OutputEncoding = System.Text.Encoding.UTF8;
-
             while (true)
             {
                 Console.WriteLine("Меню:");
@@ -184,3 +181,4 @@ namespace Lab2CSharp
         }
     }
 }
+
